@@ -1,10 +1,10 @@
 "use strict";
 // const iPhone7 = {
-//     //Thuoc tinh property
+    //Thuoc tinh property/
 //     name: 'iPhone7',
 //     color: 'pink',
 //     weight: 300,
-//     //Phuong thuc method
+    //Phuong thuc method
 //     takePhoto(){
 //         console.log(this);
 //     },
